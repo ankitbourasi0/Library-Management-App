@@ -1,3 +1,9 @@
+# Library Management app with ReactJS and spring boot
+
+## Note: this project is for the practice purpose not yet completed 
+
+### Library Management System: The app has features to add & manage students and books, where the students added is able to issue the books, the app has a records table that shows the student-issued books and returns the book
+
 
 # Video Preview
 
